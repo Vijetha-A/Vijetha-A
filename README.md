@@ -32,13 +32,10 @@
 - Monitoring: CloudWatch, SNS
 - Serverless: AWS Lambda
 
----
-
 ### ☸️ Containerization & Orchestration
 - Docker: Image creation, Multi-stage builds, Container lifecycle management
 - Kubernetes: Pods, Deployments, ReplicaSets, Services, Namespaces, Rolling Updates
 
----
 
 ### 🔄 CI/CD & DevOps Tools
 - Jenkins: Freestyle Jobs, Maven Jobs, Declarative & Scripted Pipelines, Master-Agent Architecture
@@ -46,8 +43,6 @@
 - Artifact Management: Nexus Repository
 - Version Control: Git, GitHub
 - Build Tool: Maven
-
----
 
 ### 🖥️ Operating System
 - Linux (Ubuntu): User management, File permissions, Shell scripting, Process management
