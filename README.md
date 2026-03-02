@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Vijetha Aiholli</h1>
-<h3 align="center">☁️ AWS | ☸️ Kubernetes | 🔄 DevOps Engineer | 🚀 Cloud Enthusiast</h3>
+<h3 align="center">☁️ AWS | 🔄 DevOps Engineer | 🚀 Cloud Enthusiast</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws"/>
@@ -104,9 +104,19 @@ Bachelor of Science – RCU University (81%)
 
 ## 📫 Connect With Me
 
-📧 vijethavaiholli@gmail.com  
-📍 Karnataka, India  
+## 📫 Connect With Me
 
+<p>
+  <a href="mailto:vijethavaiholli@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  
+  <a href="https://www.instagram.com/vijetha_aiholli/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@vijetha__aiholli-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+📍 Karnataka, India
 ---
 
 ⭐ *Building scalable cloud systems one deployment at a time.*
