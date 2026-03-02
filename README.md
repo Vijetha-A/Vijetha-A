@@ -64,14 +64,6 @@
 
 ---
 
-## 📈 Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vijetha-A&theme=react-dark"/>
-</p>
-
----
-
 # 📌 Projects
 
 ### 🔹 CI/CD Pipeline for Java Application
