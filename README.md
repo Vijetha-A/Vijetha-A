@@ -35,7 +35,7 @@
 
 ## ☸️ DevOps & CI/CD Tools
 
-- Jenkins (Freestyle & Pipeline)
+- Jenkins (Freestyle, Maven & Pipeline)
 - Master-Slave Architecture
 - Git & GitHub
 - Maven
@@ -120,3 +120,7 @@ Bachelor of Science – RCU University (81%)
 ---
 
 ⭐ *Building scalable cloud systems one deployment at a time.*
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Vijetha_A&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
+</p>
