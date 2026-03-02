@@ -64,6 +64,14 @@
 
 ---
 
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vijetha-A&theme=react-dark"/>
+</p>
+
+---
+
 # 📌 Projects
 
 ### 🔹 CI/CD Pipeline for Java Application
@@ -102,7 +110,6 @@ Bachelor of Science – RCU University (81%)
 
 ---
 
-## 📫 Connect With Me
 
 ## 📫 Connect With Me
 
