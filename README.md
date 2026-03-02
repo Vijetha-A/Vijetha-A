@@ -21,29 +21,36 @@
 
 ---
 
-## ☁️ Cloud & Infrastructure Skills
+## 🚀 Technical Skills
 
-- EC2, S3, VPC, IAM  
-- AMI & Launch Templates  
-- Auto Scaling Groups  
-- AWS Lambda  
-- RDS & DynamoDB  
-- CloudWatch & SNS  
-- VPC Architecture (Public/Private Subnets)
+### ☁️ Cloud Platform – AWS
+- Compute: EC2, AMI, Launch Templates, Auto Scaling Groups
+- Storage: S3
+- Networking: VPC, Public & Private Subnets, Internet Gateway, NAT Gateway
+- Security: IAM (Users, Roles, Policies)
+- Database: RDS, DynamoDB
+- Monitoring: CloudWatch, SNS
+- Serverless: AWS Lambda
 
 ---
 
-## ☸️ DevOps & CI/CD Tools
+### ☸️ Containerization & Orchestration
+- Docker: Image creation, Multi-stage builds, Container lifecycle management
+- Kubernetes: Pods, Deployments, ReplicaSets, Services, Namespaces, Rolling Updates
 
-- Jenkins (Freestyle, Maven & Pipeline)
-- Master-Slave Architecture
-- Git & GitHub
-- Maven
-- SonarQube
-- JaCoCo
-- Nexus Repository
-- Docker
-- Kubernetes (Pods, Deployments, Services)
+---
+
+### 🔄 CI/CD & DevOps Tools
+- Jenkins: Freestyle Jobs, Maven Jobs, Declarative & Scripted Pipelines, Master-Agent Architecture
+- Code Quality: SonarQube, JaCoCo
+- Artifact Management: Nexus Repository
+- Version Control: Git, GitHub
+- Build Tool: Maven
+
+---
+
+### 🖥️ Operating System
+- Linux (Ubuntu): User management, File permissions, Shell scripting, Process management
 
 ---
 
