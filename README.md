@@ -99,12 +99,6 @@ https://github.com/Vijetha-A/cicd-project.git
 
 ---
 
-## 🎓 Education
-
-Bachelor of Science – RCU University (81%)
-
----
-
 
 ## 📫 Connect With Me
 
