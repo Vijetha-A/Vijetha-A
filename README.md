@@ -1,28 +1,18 @@
 <div align="center">
 
-# Hi 👋, I'm <span style="color:#00BFFF;">Vijetha Aiholli</span>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=00BFFF&center=true&vCenter=true&width=800&lines=☁️+AWS+Cloud+Engineer;🚀+DevOps+Engineer;☸️+Kubernetes+Enthusiast;📊+Observability+Learner;⚡+Automation+%7C+CI%2FCD+%7C+Cloud+Infrastructure" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=☁️+Building+Scalable+Cloud+Infrastructure;🚀+Automating+Everything+with+DevOps;☸️+Deploying+Cloud-Native+Applications;📊+Learning+Modern+SRE+%26+Observability"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/DevOps-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins"/>
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<h3>
+💙 Passionate about <b>Automation</b> • ☁️ <b>Cloud Computing</b> • 🚀 <b>DevOps</b> • ☸️ <b>Kubernetes</b> • 📊 <b>Observability</b>
+</h3>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Vijetha-A&label=PROFILE+VIEWS&style=for-the-badge&color=blue"/>
+<p>
+Building <b>scalable cloud infrastructure</b>, automating deployments with modern DevOps practices, and continuously learning <b>SRE</b>, <b>Cloud Native</b>, and <b>Observability</b>.
+</p>
 
 </div>
-
----
-
-<div align="center">
 
 # 🚀 About Me
 
