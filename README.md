@@ -1,182 +1,108 @@
-<h1 align="center">🚀 Vijetha Aiholli</h1>
+<h1 align="center">Hi 👋, I'm Vijetha Aiholli</h1>
 
 <h3 align="center">
-☁️ AWS | 🚀 DevOps Engineer | ☸️ Kubernetes | 📊 Observability Enthusiast
+☁️ AWS • 🚀 DevOps Engineer • ☸️ Kubernetes • 📊 Cloud & Observability Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes"/>
-  <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker"/>
-  <img src="https://img.shields.io/badge/Jenkins-CI/CD-D24939?style=for-the-badge&logo=jenkins"/>
-  <img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform"/>
-  <img src="https://img.shields.io/badge/Linux-Ubuntu-black?style=for-the-badge&logo=linux"/>
+Passionate about automating infrastructure, building scalable cloud solutions, and continuously learning modern DevOps & SRE practices.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vijetha-A&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-# 👋 About Me
+# 🚀 About Me
 
-💻 DevOps Engineer passionate about building reliable, scalable, and automated cloud infrastructure.
-
-☁️ Hands-on experience with AWS, Kubernetes, Docker, Jenkins, Terraform, and Ansible.
-
-🚀 Experienced in designing end-to-end CI/CD pipelines, infrastructure automation, Kubernetes deployments, monitoring, and security scanning.
-
-📊 Currently expanding my knowledge in **SRE, Observability, OpenTelemetry, Prometheus, Grafana, Loki, Tempo, and distributed tracing.**
-
-🌱 Always learning and building cloud-native solutions.
-
-📍 Karnataka, India
+- 🌱 Currently learning **Site Reliability Engineering (SRE)**, **OpenTelemetry**, and **Cloud Observability**
+- ☁️ Hands-on experience in building AWS cloud infrastructure
+- 🔄 Designed and implemented end-to-end **CI/CD pipelines** using Jenkins
+- ☸️ Deployed containerized applications on **Amazon EKS**
+- 🏗️ Automated infrastructure provisioning using **Terraform** and **Ansible**
+- 📊 Worked with **Prometheus**, **Grafana**, **Loki**, **Tempo**, and **PromQL**
+- 💡 Passionate about Automation, Kubernetes, Cloud Infrastructure, and DevOps
 
 ---
 
-# 🚀 Technical Skills
+# 💻 Technical Skills
 
-## ☁️ Cloud Platforms
-
-- AWS
-  - EC2
-  - VPC
-  - IAM
-  - S3
-  - EKS
-  - ECS
-  - ECR
-  - Lambda
-  - RDS
-  - DynamoDB
-  - Auto Scaling
-  - CloudWatch
-  - SNS
-  - AMI
+| Category | Technologies |
+|-----------|--------------|
+| ☁️ **Cloud** | AWS (EC2, IAM, VPC, S3, EKS, ECS, ECR, Lambda, RDS, DynamoDB, CloudWatch, SNS, Auto Scaling) |
+| 🔄 **CI/CD** | Jenkins, Git, GitHub, Maven, SonarQube, JaCoCo, Nexus Repository |
+| ☸️ **Containers** | Docker, Kubernetes, Amazon EKS |
+| 🏗️ **Infrastructure as Code** | Terraform, Ansible |
+| 📊 **Monitoring & Observability** | Prometheus, Grafana, Loki, Tempo, OpenTelemetry, PromQL |
+| 🔐 **Security** | Trivy, SonarQube |
+| 🌐 **Web Servers** | Apache Tomcat, Nginx |
+| 💻 **Operating Systems** | Linux (Ubuntu), Bash Scripting |
 
 ---
 
-## 🔄 CI/CD & DevOps
-
-- Jenkins
-- Git
-- GitHub
-- Maven
-- SonarQube
-- JaCoCo
-- Nexus Repository
-
----
-
-## ☸️ Containers & Orchestration
-
-- Docker
-- Kubernetes
-- Amazon EKS
-
----
-
-## 🏗️ Infrastructure as Code
-
-- Terraform
-- Ansible
-
----
-
-## 📊 Monitoring & Observability
-
-- Prometheus
-- Grafana
-- Loki
-- Tempo
-- OpenTelemetry
-- PromQL
-
----
-
-## 🔐 DevSecOps
-
-- Trivy
-- SonarQube
-
----
-
-## 🌐 Web Servers
-
-- Apache Tomcat
-- Nginx
-
----
-
-## 💻 Operating System
-
-- Linux (Ubuntu)
-- Bash Shell Scripting
-
----
-
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,git,github,linux,maven,nginx"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,git,github,linux,bash,maven,nginx"/>
 
 </p>
 
 ---
 
-# 📌 Featured Project
+# 🚀 Featured Project
 
-## 🚀 End-to-End CI/CD Automation for Board Game Application
+## 🎲 End-to-End CI/CD Automation for Board Game Application
 
-Designed and implemented a complete DevOps pipeline for automated application delivery on AWS.
+Designed and implemented a complete DevOps pipeline to automate build, testing, deployment, infrastructure provisioning, and monitoring on AWS.
 
-### 🔹 Features
+### ✅ Key Features
 
-✅ Automated CI/CD using Jenkins
-
-✅ GitHub Webhook Integration
-
-✅ Code Quality Analysis using SonarQube
-
-✅ Code Coverage using JaCoCo
-
-✅ Artifact Management using Nexus Repository
-
-✅ Docker Image Build & Push
-
-✅ Container Vulnerability Scanning using Trivy
-
-✅ Infrastructure Provisioning using Terraform
-
-✅ Server Configuration using Ansible
-
-✅ Kubernetes Deployment on Amazon EKS
-
-✅ Monitoring using Prometheus & Grafana
-
-✅ Jenkins Email Notifications
+- Automated CI/CD Pipeline using **Jenkins**
+- GitHub Webhook Integration
+- Code Quality Analysis using **SonarQube**
+- Code Coverage using **JaCoCo**
+- Artifact Management using **Nexus Repository**
+- Docker Image Build & Push
+- Container Vulnerability Scanning using **Trivy**
+- Infrastructure Provisioning using **Terraform**
+- Configuration Management using **Ansible**
+- Kubernetes Deployment on **Amazon EKS**
+- Monitoring using **Prometheus** & **Grafana**
+- Jenkins Email Notifications
 
 ### 🛠 Technologies Used
 
-AWS • Jenkins • Docker • Kubernetes • Terraform • Ansible • Git • Maven • SonarQube • Nexus • Trivy • Prometheus • Grafana
+`AWS` `Jenkins` `Docker` `Kubernetes` `Terraform` `Ansible` `GitHub` `Maven` `SonarQube` `Nexus` `Trivy` `Prometheus` `Grafana`
 
-🔗 **Project Repository**
+### 🔗 Repository
 
-https://github.com/Vijetha-A/cicd-project
+**CI/CD Project**
+
+👉 https://github.com/Vijetha-A/cicd-project
 
 ---
 
-# 📈 Currently Learning
+# 📚 Certifications
+
+🏅 AWS Cloud Practitioner Essentials
+
+🏅 Docker Best Practices – Great Learning
+
+🏅 Kubernetes Tutorial – Great Learning
+
+---
+
+# 🌱 Currently Learning
 
 - Site Reliability Engineering (SRE)
-
 - OpenTelemetry
-
-- Metrics, Logs & Traces
-
-- Distributed Tracing
-
 - Kubernetes Observability
-
-- Production Monitoring
+- Distributed Tracing
+- Metrics, Logs & Traces
+- PromQL
+- Grafana Loki & Tempo
 
 ---
 
@@ -184,11 +110,39 @@ https://github.com/Vijetha-A/cicd-project
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vijetha-A&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vijetha-A&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijetha-A&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vijetha-A&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijetha-A&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<a href="https://github.com/Vijetha-A">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vijetha-A&theme=tokyo-night"/>
+
+</a>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vijetha-A&theme=tokyonight&row=1&column=6"/>
 
 </p>
 
@@ -196,18 +150,18 @@ https://github.com/Vijetha-A/cicd-project
 
 # 📫 Connect With Me
 
-<p>
+<p align="left">
 
 <a href="mailto:vijethavaiholli@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://www.instagram.com/vijetha_aiholli/">
-<img src="https://img.shields.io/badge/Instagram-@vijetha__aiholli-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
@@ -215,11 +169,5 @@ https://github.com/Vijetha-A/cicd-project
 ---
 
 <h3 align="center">
-
-⭐ Building reliable cloud infrastructure, automating deployments, and continuously learning modern DevOps & SRE practices.
-
+⭐ Building scalable cloud infrastructure, automating deployments, and continuously learning modern DevOps & SRE practices.
 </h3>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Vijetha-A&label=Profile%20Views&color=blue&style=for-the-badge"/>
-</p>
