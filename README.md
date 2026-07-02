@@ -1,16 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=☁️+Building+Scalable+Cloud+Infrastructure;🚀+Automating+Everything+with+DevOps;☸️+Deploying+Cloud-Native+Applications;📊+Learning+Modern+SRE+%26+Observability"/>
-
-<br>
+<h1>Hi 👋 I'm <b>Vijetha Aiholli</b></h1>
 
 <h3>
-💙 Passionate about <b>Automation</b> • ☁️ <b>Cloud Computing</b> • 🚀 <b>DevOps</b> • ☸️ <b>Kubernetes</b> • 📊 <b>Observability</b>
+☁️ AWS • 🚀 DevOps • ☸️ Kubernetes • 📊 Observability
 </h3>
 
-<p>
-Building <b>scalable cloud infrastructure</b>, automating deployments with modern DevOps practices, and continuously learning <b>SRE</b>, <b>Cloud Native</b>, and <b>Observability</b>.
-</p>
+<h4>
+Building reliable cloud infrastructure • Automating deployments • Learning SRE
+</h4>
 
 </div>
 
