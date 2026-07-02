@@ -171,6 +171,3 @@ Designed and implemented a complete DevOps pipeline to automate build, testing, 
 <h3 align="center">
 ⭐ Building scalable cloud infrastructure, automating deployments, and continuously learning modern DevOps & SRE practices.
 </h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vijetha-A&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
